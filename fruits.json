@@ -1,0 +1,164 @@
+[
+  {
+    "id": 1,
+    "name": "Apple",
+    "img": "https://images.unsplash.com/photo-1603596310728-633eefb9ef44?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mzh8fGFwcGxlfGVufDB8fDB8fHww",
+    "audio": ""
+  },
+  {
+    "id": 2,
+    "name": "Banana",
+    "img": "https://images.unsplash.com/photo-1528825871115-3581a5387919?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8ZnJ1aXR8ZW58MHx8MHx8fDA%3D",
+    "audio": ""
+  },
+  {
+    "id": 3,
+    "name": "Pear",
+    "img": "https://images.unsplash.com/photo-1570115114436-63d3405246e7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8UGVhcnxlbnwwfHwwfHx8MA%3D%3D",
+    "audio": ""
+  },
+  {
+    "id": 4,
+    "name": "Strawberry",
+    "img": "https://images.unsplash.com/photo-1591271300850-22d6784e0a7f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8U3RyYXdiZXJyeXxlbnwwfHwwfHx8MA%3D%3D",
+    "audio": ""
+  },
+  {
+    "id": 5,
+    "name": "Durian",
+    "img": "https://images.unsplash.com/photo-1652872278831-7637298f7063?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fER1cmlhbnxlbnwwfHwwfHx8MA%3D%3D",
+    "audio": ""
+  },
+  {
+    "id": 6,
+    "name": "Blackberry",
+    "img": "https://images.unsplash.com/photo-1508851112073-bb54d279f071?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YmxhY2tiZXJyeSUyMGZydWl0fGVufDB8fDB8fHww",
+    "audio": ""
+  },
+  {
+    "id": 7,
+    "name": "Kiwi",
+    "img": "https://images.unsplash.com/photo-1699029330848-335e7e2c073f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8S2l3aSUyMGZydWl0fGVufDB8fDB8fHww",
+    "audio": ""
+  },
+  {
+    "id": 8,
+    "name": "Pineapple",
+    "img": "https://images.unsplash.com/photo-1490885578174-acda8905c2c6?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGZydWl0fGVufDB8fDB8fHww",
+    "audio": ""
+  },
+  {
+    "id": 9,
+    "name": "Raspberry",
+    "img": "https://images.unsplash.com/photo-1615484476889-2830f980a5e3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fFJhc3BiZXJyeSUyMGZydWl0fGVufDB8fDB8fHww",
+    "audio": ""
+  },
+  {
+    "id": 10,
+    "name": "GreenApple",
+    "img": "https://images.unsplash.com/photo-1589799750275-b3b8173bf7b4?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGdyZWVuJTIwYXBwbGV8ZW58MHx8MHx8fDA%3D",
+    "audio": ""
+  },
+  {
+    "id": 11,
+    "name": "Plum",
+    "img": "https://images.unsplash.com/photo-1541379017622-a51a0f46f5f9?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fHBsdW18ZW58MHx8MHx8fDA%3D",
+    "audio": ""
+  },
+  {
+    "id": 12,
+    "name": "Orange",
+    "img": "https://images.unsplash.com/photo-1700411360297-4a4633c7c6f0?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8ZnJ1aXQlMjBvcmFuZ2V8ZW58MHx8MHx8fDA%3D",
+    "audio": ""
+  },
+  {
+    "id": 13,
+    "name": "Watermelon",
+    "img": "https://plus.unsplash.com/premium_photo-1663855531381-f9c100b3c48f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8d2F0ZXJtZWxvbnxlbnwwfHwwfHx8MA%3D%3D",
+    "audio": ""
+  },
+  {
+    "id": 14,
+    "name": "Lemon",
+    "img": "https://images.unsplash.com/photo-1534531173927-aeb928d54385?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bGVtb258ZW58MHx8MHx8fDA%3D",
+    "audio": ""
+  },
+  {
+    "id": 15,
+    "name": "Mango",
+    "img": "https://images.unsplash.com/photo-1631153609867-daf57f90cd42?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE4fHx8ZW58MHx8fHx8",
+    "audio": ""
+  },
+  {
+    "id": 16,
+    "name": "Blueberry",
+    "img": "https://images.unsplash.com/photo-1498557850523-fd3d118b962e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Ymx1ZWJlcnJ5fGVufDB8fDB8fHww",
+    "audio": ""
+  },
+  {
+    "id": 17,
+    "name": "Guava",
+    "img": "https://images.unsplash.com/photo-1706734745541-f33f1207ee21?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8Z3VhdmElMjBmcnVpdHxlbnwwfHwwfHx8MA%3D%3D",
+    "audio": ""
+  },
+  {
+    "id": 18,
+    "name": "Lime",
+    "img": "https://images.unsplash.com/photo-1501591642422-d14accd39d6a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGxpbWV8ZW58MHx8MHx8fDA%3D",
+    "audio": ""
+  },
+  {
+    "id": 19,
+    "name": "Dragonfruit",
+    "img": "https://images.unsplash.com/photo-1527325678964-54921661f888?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8ZHJhZ29uJTIwZnJ1aXR8ZW58MHx8MHx8fDA%3D",
+    "audio": ""
+  },
+  {
+    "id": 20,
+    "name": "Pomegranate",
+    "img": "https://images.unsplash.com/photo-1608869857121-c0bcdf4fff2c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fHBvbWVncmFuYXRlfGVufDB8fDB8fHww",
+    "audio": ""
+  },
+  {
+    "id": 21,
+    "name": "Grapes",
+    "img": "https://images.unsplash.com/photo-1534985508850-11ca0c0af112?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Z3JhcGVzfGVufDB8fDB8fHww",
+    "audio": ""
+  },
+  {
+    "id": 22,
+    "name": "Avocado",
+    "img": "https://images.unsplash.com/photo-1523049673857-eb18f1d7b578?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8ZnJ1aXR8ZW58MHx8MHx8fDA%3D",
+    "audio": ""
+  },
+  {
+    "id": 23,
+    "name": "Kiwifruit",
+    "img": "https://images.unsplash.com/photo-1571575173700-afb9492e6a50?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjN8fGZydWl0fGVufDB8fDB8fHww",
+    "audio": ""
+  },
+  {
+    "id": 24,
+    "name": "Cherry",
+    "img": "https://images.unsplash.com/photo-1559181567-c3190ca9959b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8ZnJ1aXR8ZW58MHx8MHx8fDA%3D",
+    "audio": ""
+  },
+  {
+    "id": 25,
+    "name": "Peach",
+    "img": "https://images.unsplash.com/photo-1517355352485-3c18847c2f7d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fHBlYWNofGVufDB8fDB8fHww",
+    "audio": ""
+  },
+  {
+    "id": 26,
+    "name": "Jackfruit",
+    "img": "https://images.unsplash.com/photo-1651565919334-bf81165cd0a3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8amFja2ZydWl0fGVufDB8fDB8fHww",
+    "audio": ""
+  },
+  {
+    "id": 27,
+    "name": "Pumpkin",
+    "img": "https://images.unsplash.com/photo-1506372243740-26eb4f00cd11?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mzh8fHB1bXBraW58ZW58MHx8MHx8fDA%3D",
+    "audio": ""
+  }
+]
