@@ -25,15 +25,22 @@
   </head>
   <style>
     body {
-      background: url("./background-main.avif") no-repeat;
-      width: 100vw;
+      background: url("./background-main.avif") no-repeat center center fixed;
+      background-size: cover;
       font-family: "Nunito", sans-serif;
+      margin: 0;
+      padding: 0;
+      min-height: 100vh;
     }
+
     .text-content {
-      width: 100%;
-      display: block;
-      margin-left: 60%;
-      margin-top: 10%;
+      position: fixed;
+      width: 40%;
+      right: 5%;
+      top: 10%;
+      margin: 0;
+      padding: 20px;
+      box-sizing: border-box;
     }
 
     .text-content h1 {
